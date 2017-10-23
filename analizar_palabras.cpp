@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string> 
+/*Comentario Prof Kevin*/
 using namespace std;
 palindroma(string palabra)
 {
