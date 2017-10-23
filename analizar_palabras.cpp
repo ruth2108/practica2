@@ -27,7 +27,25 @@ palindroma(string palabra)
 }
 vocales(string palabra)
 {
-	
+	int a,b;  
+
+for(a=0;a<40;a++){ 
+switch (palabra[a]){ 
+case 'a': b=b+1; 
+break; 
+case 'e': b=b+1; 
+break; 
+case 'i': b=b+1; 
+break; 
+case 'o': b=b+1; 
+break; 
+case 'u': b=b+1; 
+break; 
+} } 
+
+cout<<"el numero de vocales son"<<b; 
+
+
 	
 }
 int main(){
