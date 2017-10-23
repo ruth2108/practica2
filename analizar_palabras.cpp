@@ -1,10 +1,7 @@
 #include <iostream>
 #include <string> 
-<<<<<<< HEAD
-include "stdafx.h"
-=======
+//include "stdafx.h"
 /*Comentario Prof Kevin*/
->>>>>>> 9da6387fb637a5c71c1f8aaa4c762ec60e235e15
 using namespace std;
 palindroma(string palabra)
 {
@@ -28,7 +25,7 @@ palindroma(string palabra)
 
 
 }
-vcales(string palabra)
+vocales(string palabra)
 {
 	
 	
