@@ -2,6 +2,7 @@
 #include <string> 
 //include "stdafx.h"
 /*Comentario Prof Kevin*/
+/*HOLA*/
 using namespace std;
 palindroma(string palabra)
 {
